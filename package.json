@@ -1,6 +1,6 @@
 {
     "name": "jupyterlab-bqn",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A JupyterLab extension for the BQN language.",
     "keywords": [
         "jupyter",
